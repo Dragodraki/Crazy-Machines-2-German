@@ -1,5 +1,5 @@
 # Crazy-Machines-2-German
-German patch: 
+This is a patch to switch language to german for all supported levels, voice, inventory and UI in the famous computer game "Crazy Machines II": 
 
 1. Buy Crazy Machines II Steam Essential Puzzle Pack first!
    </br>
