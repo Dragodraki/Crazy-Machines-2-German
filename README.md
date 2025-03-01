@@ -8,8 +8,12 @@ German patch:
 4. Launch the game
 
 Copyright information:
+</br>
 I am not the owner of the game files. All rights belong to Faktum Software, Viva Media and Steam.
+</br>
 These files won't work alone. You have to buy the full game from Steam first.
+</br>
 This patch is done to make people happy who try to play the game in German again. Steams version is not able to do so for years now.
+</br>
 Don't abuse these files for anything else, like cracking or hacking. I accept no responsibility for any damage.
 
