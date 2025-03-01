@@ -2,6 +2,7 @@
 German patch: 
 
 1. Buy Crazy Machines II Steam Essential Puzzle Pack first!
+   </br>
    https://store.steampowered.com/app/18400/Crazy_Machines_2/?l=german
 3. Copy all these files into your Steam installation and confirm overwrite.
 4. Launch the game
