@@ -11,7 +11,7 @@ This is a patch to switch language to german for all supported levels, voice, in
 
 <br/>
 
-[<img src="https://user-images.githubusercontent.com/76787321/197257488-1b7aa8e9-9b6f-4600-949e-8ff477cb4bf4.png" width="23%"></img>](https://github.com/Dragodraki/Crazy-Machines-2-German/releases/latest/download/RunasMe.exe)
+[<img src="https://user-images.githubusercontent.com/76787321/197257488-1b7aa8e9-9b6f-4600-949e-8ff477cb4bf4.png" width="23%"></img>](https://github.com/Dragodraki/Crazy-Machines-2-German/releases/latest/download/cm2-german.zip)
 <br>
 
 To undo this: uninstall (and install afterwards) the game in Steam.
