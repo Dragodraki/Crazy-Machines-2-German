@@ -5,7 +5,7 @@ This is a patch to switch language to german for all supported levels, voice, in
    </br>
    https://store.steampowered.com/app/18400/Crazy_Machines_2/?l=german
 2. Run Steam on your computer and install Crazy Machines II.
-4. Copy all files from this repository into your Steam installation in </br>
+4. Download this repository, extract it and copy files into your Steam installation in </br>
 %ProgramFiles(x86)%\Steam\steamapps\common\Crazy Machines 2\ </br> and confirm overwrite.
 6. Launch the game
 
