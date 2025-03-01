@@ -9,6 +9,11 @@ This is a patch to switch language to german for all supported levels, voice, in
 %ProgramFiles(x86)%\Steam\steamapps\common\Crazy Machines 2\ </br> and confirm overwrite.
 6. Launch the game
 
+<br/>
+
+[<img src="https://user-images.githubusercontent.com/76787321/197257488-1b7aa8e9-9b6f-4600-949e-8ff477cb4bf4.png" width="23%"></img>](https://github.com/Dragodraki/Crazy-Machines-2-German/releases/latest/download/RunasMe.exe)
+<br>
+
 To undo this: uninstall (and install afterwards) the game in Steam.
 
 </br>
