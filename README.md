@@ -7,6 +7,9 @@ German patch:
 3. Copy all these files into your Steam installation and confirm overwrite.
 4. Launch the game
 
+To undo this: uninstall (and install afterwards) the game in Steam.
+
+</br>
 </br>
 Copyright information:
 </br>
@@ -14,7 +17,7 @@ Copyright information:
 </br>
 - These files won't work alone. You have to buy the full game from Steam first.
 </br>
-- This patch is done to make people happy who try to play the game in German again. Steams version is not able to do so for years now.
+- This patch is done to make people happy who would like to play the game in German again. Steams version is not able to do so for years now.
 </br>
 - Don't abuse these files for anything else, like cracking or hacking. I accept no responsibility for any damage.
 </br>
